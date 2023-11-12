@@ -1,7 +1,9 @@
 <template>
-    <div>
-        DashBoard.vue
-    </div>
+    <v-container fluid>
+        <v-card class="pa-3">
+            Col
+        </v-card>
+    </v-container>
 </template>
 
 <script>
